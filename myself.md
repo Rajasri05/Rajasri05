@@ -8,8 +8,7 @@
 -   >linkedin,
     >E mail,
     >Twitter.
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+
 
 <!---
 Rajasri05/Rajasri05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
